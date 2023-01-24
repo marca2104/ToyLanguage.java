@@ -1,0 +1,361 @@
+Id: 2
+Execution stack: (int a|(int b|(a = 2 43 3 42 5|(b = a 43 1|print(b)))))
+
+Symbol table: 
+Output list: 
+File table:
+Heap memory:
+Id: 2
+Execution stack: int a
+(int b|(a = 2 43 3 42 5|(b = a 43 1|print(b))))
+
+Symbol table: 
+Output list: 
+File table:
+Heap memory:
+Id: 2
+Execution stack: int a
+(int b|(a = 2 43 3 42 5|(b = a 43 1|print(b))))
+
+Symbol table: 
+Output list: 
+File table:
+Heap memory:
+Id: 2
+Execution stack: int a
+(int b|(a = 2 43 3 42 5|(b = a 43 1|print(b))))
+
+Symbol table: 
+Output list: 
+File table:
+Heap memory:
+Id: 2
+Execution stack: int a
+(int b|(a = 2 43 3 42 5|(b = a 43 1|print(b))))
+
+Symbol table: 
+Output list: 
+File table:
+Heap memory:
+Id: 2
+Execution stack: int b
+(a = 2 43 3 42 5|(b = a 43 1|print(b)))
+
+Symbol table: a -> 0
+
+Output list: 
+File table:
+Heap memory:
+Id: 2
+Execution stack: int b
+(a = 2 43 3 42 5|(b = a 43 1|print(b)))
+
+Symbol table: a -> 0
+
+Output list: 
+File table:
+Heap memory:
+Id: 2
+Execution stack: int b
+(a = 2 43 3 42 5|(b = a 43 1|print(b)))
+
+Symbol table: a -> 0
+
+Output list: 
+File table:
+Heap memory:
+Id: 2
+Execution stack: int b
+(a = 2 43 3 42 5|(b = a 43 1|print(b)))
+
+Symbol table: a -> 0
+
+Output list: 
+File table:
+Heap memory:
+Id: 2
+Execution stack: int b
+(a = 2 43 3 42 5|(b = a 43 1|print(b)))
+
+Symbol table: a -> 0
+
+Output list: 
+File table:
+Heap memory:
+Id: 2
+Execution stack: int b
+(a = 2 43 3 42 5|(b = a 43 1|print(b)))
+
+Symbol table: a -> 0
+
+Output list: 
+File table:
+Heap memory:
+Id: 2
+Execution stack: int b
+(a = 2 43 3 42 5|(b = a 43 1|print(b)))
+
+Symbol table: a -> 0
+
+Output list: 
+File table:
+Heap memory:
+Id: 2
+Execution stack: int b
+(a = 2 43 3 42 5|(b = a 43 1|print(b)))
+
+Symbol table: a -> 0
+
+Output list: 
+File table:
+Heap memory:
+Id: 2
+Execution stack: b = a 43 1
+print(b)
+
+Symbol table: a -> 17
+b -> 0
+
+Output list: 
+File table:
+Heap memory:
+Id: 2
+Execution stack: b = a 43 1
+print(b)
+
+Symbol table: a -> 17
+b -> 0
+
+Output list: 
+File table:
+Heap memory:
+Id: 2
+Execution stack: b = a 43 1
+print(b)
+
+Symbol table: a -> 17
+b -> 0
+
+Output list: 
+File table:
+Heap memory:
+Id: 2
+Execution stack: b = a 43 1
+print(b)
+
+Symbol table: a -> 17
+b -> 0
+
+Output list: 
+File table:
+Heap memory:
+Id: 2
+Execution stack: b = a 43 1
+print(b)
+
+Symbol table: a -> 17
+b -> 0
+
+Output list: 
+File table:
+Heap memory:
+Id: 2
+Execution stack: b = a 43 1
+print(b)
+
+Symbol table: a -> 17
+b -> 0
+
+Output list: 
+File table:
+Heap memory:
+Id: 2
+Execution stack: b = a 43 1
+print(b)
+
+Symbol table: a -> 17
+b -> 0
+
+Output list: 
+File table:
+Heap memory:
+Id: 2
+Execution stack: b = a 43 1
+print(b)
+
+Symbol table: a -> 17
+b -> 0
+
+Output list: 
+File table:
+Heap memory:
+Id: 2
+Execution stack: b = a 43 1
+print(b)
+
+Symbol table: a -> 17
+b -> 0
+
+Output list: 
+File table:
+Heap memory:
+Id: 2
+Execution stack: b = a 43 1
+print(b)
+
+Symbol table: a -> 17
+b -> 0
+
+Output list: 
+File table:
+Heap memory:
+Id: 2
+Execution stack: b = a 43 1
+print(b)
+
+Symbol table: a -> 17
+b -> 0
+
+Output list: 
+File table:
+Heap memory:
+Id: 2
+Execution stack: b = a 43 1
+print(b)
+
+Symbol table: a -> 17
+b -> 0
+
+Output list: 
+File table:
+Heap memory:
+Id: 2
+Execution stack: b = a 43 1
+print(b)
+
+Symbol table: a -> 17
+b -> 0
+
+Output list: 
+File table:
+Heap memory:
+Id: 2
+Execution stack: b = a 43 1
+print(b)
+
+Symbol table: a -> 17
+b -> 0
+
+Output list: 
+File table:
+Heap memory:
+Id: 2
+Execution stack: b = a 43 1
+print(b)
+
+Symbol table: a -> 17
+b -> 0
+
+Output list: 
+File table:
+Heap memory:
+Id: 2
+Execution stack: b = a 43 1
+print(b)
+
+Symbol table: a -> 17
+b -> 0
+
+Output list: 
+File table:
+Heap memory:
+Id: 2
+Execution stack: 
+Symbol table: a -> 17
+b -> 18
+
+Output list: 18
+
+File table:
+Heap memory:
+Id: 2
+Execution stack: 
+Symbol table: a -> 17
+b -> 18
+
+Output list: 18
+
+File table:
+Heap memory:
+Id: 2
+Execution stack: 
+Symbol table: a -> 17
+b -> 18
+
+Output list: 18
+
+File table:
+Heap memory:
+Id: 2
+Execution stack: 
+Symbol table: a -> 17
+b -> 18
+
+Output list: 18
+
+File table:
+Heap memory:
+Id: 2
+Execution stack: 
+Symbol table: a -> 17
+b -> 18
+
+Output list: 18
+
+File table:
+Heap memory:
+Id: 2
+Execution stack: 
+Symbol table: a -> 17
+b -> 18
+
+Output list: 18
+
+File table:
+Heap memory:
+Id: 2
+Execution stack: 
+Symbol table: a -> 17
+b -> 18
+
+Output list: 18
+
+File table:
+Heap memory:
+Id: 2
+Execution stack: 
+Symbol table: a -> 17
+b -> 18
+
+Output list: 18
+
+File table:
+Heap memory:
+Id: 2
+Execution stack: 
+Symbol table: a -> 17
+b -> 18
+
+Output list: 18
+
+File table:
+Heap memory:
+Id: 2
+Execution stack: 
+Symbol table: a -> 17
+b -> 18
+
+Output list: 18
+
+File table:
+Heap memory:

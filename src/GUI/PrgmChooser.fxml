@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import javafx.geometry.*?>
+<?import javafx.scene.control.*?>
+<?import javafx.scene.layout.*?>
+<?import javafx.scene.text.*?>
+
+<StackPane xmlns="http://javafx.com/javafx/11.0.2" xmlns:fx="http://javafx.com/fxml/1"
+           fx:controller="GUI.ChooserController">
+    <VBox alignment="CENTER" style="-fx-background-color: #FFDEAD;">
+        <ListView fx:id="programsListView" prefHeight="356.0" prefWidth="525.0"
+                  style="-fx-background-color: #F8F8FF; -fx-background-radius: 5px;">
+            <VBox.margin>
+                <Insets bottom="10.0" left="10.0" right="10.0" top="10.0"/>
+            </VBox.margin>
+        </ListView>
+        <Button fx:id="displayButton" alignment="BASELINE_CENTER" maxHeight="-Infinity" minHeight="-Infinity"
+                mnemonicParsing="false" onAction="#displayProgram" prefHeight="24.0"
+                style="-fx-background-color: #DEB887; -fx-border-color: #000000; -fx-border-radius: 15px; -fx-background-radius: 15px;"
+                text="Display program" textAlignment="CENTER" textFill="#000000">
+            <font>
+                <Font name="Berlin Sans FB" size="12.0"/>
+            </font>
+            <VBox.margin>
+                <Insets bottom="10.0" left="10.0" right="10.0" top="10.0"/>
+            </VBox.margin>
+        </Button>
+    </VBox>
+</StackPane>
